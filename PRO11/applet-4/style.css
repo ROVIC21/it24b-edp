@@ -1,0 +1,57 @@
+.dropdown-item {
+    font-size: 20px;
+  font-family:Impact;
+  }
+  
+          #navbarSupportedContent{
+  font-size: 30px;
+  font-family:monospace;
+  
+  
+          }
+          .navbar{
+            padding: 1%;
+  
+          }
+  
+  .applet-flex-container {
+  justify-content: center;
+  display: flex;
+  width: 95%;
+  flex-wrap: wrap;
+  
+  
+  }.applet-flex-container > div{
+  margin-left: 5.0rem;
+  margin-right:  2.0rem;
+  margin-top: 8rem;
+  }
+  
+  
+  .applet-card{
+  
+      width: 18rem;
+      height: 12rem;
+     
+    
+    
+  }
+   img{
+  width: 200px;
+  height: 200px;
+      object-fit: cover;
+  
+  }.card-title{
+      text-align: center;
+      
+  }
+  .card{
+   transition: transform .3s;
+  }
+
+  .applet-container{
+              margin-top: 1rem;
+           
+              width: 90%;
+          }
+  
