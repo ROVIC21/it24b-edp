@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body {
+    background: url('') no-repeat center center fixed;
+    background-size: cover;
+    padding-top: 56px; 
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    z-index: 1;
+
+}
+
+
+  
+  .applet-flex-container {
+  justify-content: center;
+  display: flex;
+  width: 95%;
+  flex-wrap: wrap;
+  
+  
+  }.applet-flex-container > div{
+  margin-left: 5.0rem;
+  margin-right:  2.0rem;
+  margin-top: 8rem;
+  }
+  
+  
+  .applet-card{
+  
+      width: 18rem;
+      height: 12rem;
+     
+    
+    
+  }
+   img{
+  width: 200px;
+  height: 200px;
+      object-fit: cover;
+  
+  }.card-title{
+      text-align: center;
+      
+  }
+  .card{
+   transition: transform .3s;
+  }
+
+  .applet-container{
+              margin-top: 1rem;
+           
+              width: 90%;
+          }
+  

@@ -1,0 +1,15 @@
+{
+    "main": {
+        "temp": 16,
+        "humidity": 60
+    },
+    "weather": [
+        {
+            "description": "Broken Clouds",
+            "icon": "04d"
+        }
+    ],
+    "wind": {
+        "speed": 5
+    }
+}
